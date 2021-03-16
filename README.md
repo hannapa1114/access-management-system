@@ -27,8 +27,7 @@
 #### 실행
  * 의존성 설치 
 ```
-$ cd server
-$ npm i
+$ npm install
 ```
  * 서버실행
 ```
